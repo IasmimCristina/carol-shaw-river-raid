@@ -1,0 +1,11 @@
+header {
+  top: 0;
+  width: 100%;
+  z-index: 999;
+  text-align: center;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  padding: 10px 0;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
